@@ -1,6 +1,6 @@
 origin_blacklist_block_replit_clients: false
 enable_web_origin_blacklist: true
-server_name: EaglercraftBungee Server
+server_name: The SMP
 listeners:
 - fallback_server: lobby
   tab_list: GLOBAL_PING
